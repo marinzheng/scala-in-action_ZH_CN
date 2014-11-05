@@ -1,11 +1,9 @@
-《Scala in Action》中文翻译——个人自误，与版权无关
-===============
-
+###《Scala in Action》中文翻译——个人自误，与版权无关
 
 # 目 录
 
-## 第一部分：SCALA基础
-- 第1章：Why Scala?
+## 第一部分：[SCALA基础](ebook/1.md)
+- 第1章：[为何选择Scala](ebook/1.01.md)
   - 1.1 What’s Scala?
     * Scala as an object-oriented language
     * Scala as a functional language  
