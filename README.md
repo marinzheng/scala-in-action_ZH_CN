@@ -5,7 +5,7 @@
 
 ## 第一部分：[SCALA基础](ebook/1.md)
 - 第1章：[为何选择Scala](ebook/1.1.md)
-  - 1.1 Scala是什么?(ebook/1.01.1.md)
+  - 1.1 Scala是什么?(ebook/1.1.1.md)
     - 1.1.1 Scala as an object-oriented language
     - 1.1.2 Scala as a functional language  
     - 1.1.3 Scala as a multi-paradigm language
