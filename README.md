@@ -10,8 +10,8 @@
     - 1.1.2 [Scala是一种函数式编程语言](ebook/1.1.1.2.md)  
     - 1.1.3 [Scala是一种多范式语言](ebook/1.1.1.3.md)
     - 1.1.4 [Scala是一种可伸缩和可扩展的语言](ebook/1.1.1.4.md)
-    - 1.1.5 Scala runs on the JVM
-  - 1.2 目前的危机
+    - 1.1.5 [Scala运行在JVM之上](ebook/1.1.1.5.md)
+  - 1.2 [目前的危机](ebook/1.1.2.md)
     - 1.2.1 End of Moore’s law
     - 1.2.2 Programming for multicores
   - 1.3 Transitioning from Java to Scala
