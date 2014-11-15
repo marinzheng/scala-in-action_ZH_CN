@@ -12,7 +12,7 @@
     - 1.1.4 [Scala是一种可伸缩和可扩展的语言](ebook/1.1.1.4.md)
     - 1.1.5 [Scala运行在JVM之上](ebook/1.1.1.5.md)
   - 1.2 [目前的危机](ebook/1.1.2.md)
-    - 1.2.1 End of Moore’s law
+    - 1.2.1 [1.2.1 ]摩尔定律的终结](ebook/1.1.2.1.md)
     - 1.2.2 Programming for multicores
   - 1.3 Transitioning from Java to Scala
     - 1.3.1 Scala improves productivity
