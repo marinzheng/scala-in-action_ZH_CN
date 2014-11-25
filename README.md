@@ -14,7 +14,7 @@
   - 1.2 [目前的危机](ebook/1.1.2.md)
     - 1.2.1 [摩尔定律的终结](ebook/1.1.2.1.md)
     - 1.2.2 [多核编程](ebook/1.1.2.2.md)
-  - 1.3 Transitioning from Java to Scala
+  - 1.3 [从Java向Scala过渡](ebook/1.1.3.md)
     - 1.3.1 Scala improves productivity
     - 1.3.2 Scala does more with less code
   - 1.4 Coming from a dynamic language
