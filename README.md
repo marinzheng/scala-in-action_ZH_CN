@@ -15,7 +15,7 @@
     - 1.2.1 [摩尔定律的终结](ebook/1.1.2.1.md)
     - 1.2.2 [多核编程](ebook/1.1.2.2.md)
   - 1.3 [从Java向Scala过渡](ebook/1.1.3.md)
-    - 1.3.1 Scala improves productivity
+    - 1.3.1 [Scala可以提高生产力](ebook/1.1.3.1.md)
     - 1.3.2 Scala does more with less code
   - 1.4 Coming from a dynamic language
     - 1.4.1 Case for static typing, the right way
