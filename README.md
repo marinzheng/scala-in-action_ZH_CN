@@ -19,8 +19,8 @@
     - 1.3.2 [Scala用更少的代码做更多的事情](ebook/1.1.3.2.md)
   - 1.4 [如果你来自某种动态语言](ebook/1.1.4.md)
     - 1.4.1 [静态类型才是正确的道路](ebook/1.1.4.1.md)
-  - 1.5 For the programming language enthusiast
-  - 1.6 Summary
+  - 1.5 [致编程语言爱好者](ebook/1.1.5.md)
+  - 1.6 [总结](ebook/1.1.6.md)
 
 
 - 第2章：Getting start
