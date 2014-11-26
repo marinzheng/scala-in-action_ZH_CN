@@ -18,7 +18,7 @@
     - 1.3.1 [Scala可以提高生产力](ebook/1.1.3.1.md)
     - 1.3.2 [Scala用更少的代码做更多的事情](ebook/1.1.3.2.md)
   - 1.4 [如果你来自某种动态语言](ebook/1.1.4.md)
-    - 1.4.1 Case for static typing, the right way
+    - 1.4.1 [静态类型才是正确的道路](ebook/1.1.4.1.md)
   - 1.5 For the programming language enthusiast
   - 1.6 Summary
 
