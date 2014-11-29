@@ -23,7 +23,7 @@
   - 1.6 [总结](ebook/1.1.6.md)
 
 
-- 第2章：Getting start
+- 第2章：[入门指南](ebook/1.2.md)
   - 2.1 REPL with Scala interpreter
   - 2.2 Scala basics
     - 2.2.1 Basic types
