@@ -25,7 +25,7 @@
 
 - 第2章：[入门指南](ebook/1.2.md)
   - 2.1 [Scala解释器下的REPL](ebook/1.2.1.md)
-  - 2.2 Scala basics
+  - 2.2 [Scala基础](ebook/1.2.2.md)
     - 2.2.1 Basic types
     - 2.2.2 Defining variables
     - 2.2.3 Defining functions
